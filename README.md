@@ -26,3 +26,12 @@ operating system because he wanted to<br>
 use the functions of his new PC with an<br>
 80386 processor. Development was done on<br>
 MINIX using the GNU C Compiler.<br>
+
+
+**How to Test:**
+
+Execute
+
+```shell
+node app.js
+```
